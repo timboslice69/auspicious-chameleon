@@ -1,0 +1,24 @@
+{
+  "name": "auspicious-chameleon",
+  "version": "1.0.0",
+  "description": "Timbos Web Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timboslice69/auspicious-chameleon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timboslice69/auspicious-chameleon/issues"
+  },
+  "homepage": "https://github.com/timboslice69/auspicious-chameleon#readme",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "express": "^4.13.3",
+    "path": "^0.12.7"
+  }
+}
